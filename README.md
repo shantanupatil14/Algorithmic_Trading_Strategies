@@ -48,12 +48,16 @@ Each strategy is clearly outlined with methodology, Python implementation, visua
 ```bash
 git clone https://github.com/yourusername/Algorithmic_Trading_Strategies.git
 cd Algorithmic_Trading_Strategies
+```
+---
 
 🔗 Connect & Collaborate
 I am passionate about financial markets and quantitative analysis. Currently exploring opportunities in investment banking, quantitative research, and algorithmic trading roles.
 
 📧 Email: shantanu@umd.edu
 💼 LinkedIn: https://www.linkedin.com/in/shantanupatil14/
+
+---
 
 ⚖️ Disclaimer
 This project is for educational and illustrative purposes only. Investment involves risk, and past performance does not indicate future results.
